@@ -14,7 +14,7 @@ Here are some results:
 Run the GUI firstly
 ```Shell
 python3 SketchModeling.py
-'''
+```
 
 Then run the SketchGAN and the VoxelGAN
 ```Shell
@@ -22,4 +22,4 @@ cd SketchGAN/ScribblerNet
 python3 main.py
 cd ../../VoxelGAN/
 th test_one.lua
-'''
+```
